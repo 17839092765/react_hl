@@ -1,0 +1,55 @@
+.linkbox {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.linkbox > .linkcase {
+  width: 150px;
+  height: 40px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  position: relative;
+  top: -10px;
+}
+
+.linkbox > .linkcase > div {
+  height: 50px;
+  width: 500px;
+  color: white;
+  position: absolute;
+  bottom: -50px;
+  background: rgba(0, 0, 0, 0.171);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 15px;
+}
+
+.linkbox > .linkcase > div > div {
+  width: 100px;
+  height: 100%;
+  line-height: 50px;
+}
+
+.linkbox .islink {
+  color: aqua;
+  position: relative;
+}
+
+.linkbox .islink::after {
+  content: "";
+  width: 70%;
+  height: 2px;
+  background: rgba(82, 209, 231, 0.767);
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}

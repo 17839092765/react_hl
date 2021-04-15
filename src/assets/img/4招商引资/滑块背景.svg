@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="418px" height="31px" viewBox="0 0 418 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>滑块背景</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EBEDCE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EBEDCE" offset="53.1168051%"></stop>
+            <stop stop-color="#EBEDCE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="滑块背景" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形">
+            <rect fill="#000000" opacity="0.338481105" x="4.54747351e-13" y="1" width="417.587812" height="30"></rect>
+            <rect stroke="url(#linearGradient-1)" x="0" y="0" width="417.587812" height="1"></rect>
+            <rect stroke="url(#linearGradient-1)" x="0" y="30" width="417.587812" height="1"></rect>
+        </g>
+    </g>
+</svg>

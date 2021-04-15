@@ -1,0 +1,103 @@
+{
+    "hlsjdata": [
+      {
+        "label": "基础底图",
+        "layerid": ["E42D9D0C486C4AFECF799A8C8939BE53"]
+      },
+      {
+        "label": "倾斜模型",
+        "layerid": [
+          "46D13CDC451240431008C084E693A832",
+          "85464FDA47941043BFCB55B0C6B104AF",
+          "3B15473042BCF8EC3529B786FA7F6A34"
+        ]
+      }
+    ],
+    "gnbjdata": [
+      {
+        "label": "规划数据",
+        "layerid": ["9CA1AB164A2434EBCE4CACBA58E68868"]
+      }
+    ],
+    "xzsjdata": [
+      {
+        "label": "基础底图",
+        "layerid": ["E42D9D0C486C4AFECF799A8C8939BE53"]
+      }
+    ],
+    "zsyzdata": [
+      {
+        "label": "基础底图",
+        "layerid": ["E42D9D0C486C4AFECF799A8C8939BE53"]
+      },
+      {
+        "label": "压平的倾斜模型",
+        "layerid": [
+          "46D13CDC451240431008C084E693A832",
+          "3B15473042BCF8EC3529B786FA7F6A34",
+          "0B28AD424533E11AC81764AF07C0D364"
+        ]
+      },
+      {
+        "label": "招商楼宇",
+        "layerid": [
+          "A45064AB4C2019191C0AF6974DCB0E44",
+          "B60D14F94D3236233CD620967BECC633",
+          "22E15628424207CC4CD05B99D59E9267",
+          "510E89A04A6F36F2AF26A5A56A36AD69",
+          "AAB6333D412D8A4BF6470184212B3057",
+          "1A9882554CAE7119144EF395627FB6AA",
+          "E2FB3ABC4EB468A920CF01B1822EA392",
+          "BD0BD984453BE623FE3669B3BF27243B",
+          "C81E07B0405D1FBFAB4080BE9BE98861",
+          "5ACB1BA1426582D4B195E8B1AE360E97",
+          "550B6655438DA991794046B5DD81A02D"
+        ]
+      }
+    ],
+    "wlyjdata": [
+      {
+        "label": "基础底图",
+        "layerid": ["E42D9D0C486C4AFECF799A8C8939BE53"]
+      }
+    ],
+    "louyucase": [
+      {
+        "Id": "1A9882554CAE7119144EF395627FB6AA",
+        "ObjectID": "4403030030090500002"
+      },
+      {
+        "Id": "BF15EEEC49051728DF0DD585E91B4C0E",
+        "ObjectID": "4403030030090300003"
+      },
+      {
+        "Id": "AAB6333D412D8A4BF6470184212B3057",
+        "ObjectID": "4403030030090400011"
+      },
+      {
+        "Id": "22E15628424207CC4CD05B99D59E9267",
+        "ObjectID": "4403030030040600002"
+      },
+      {
+        "Id": "E2FB3ABC4EB468A920CF01B1822EA392",
+        "ObjectID": "4403030030120100001"
+      },
+      {
+        "Id": "BD0BD984453BE623FE3669B3BF27243B",
+        "ObjectID": "4403030030120100002_89"
+      },
+      {
+        "Id": "C81E07B0405D1FBFAB4080BE9BE98861",
+        "ObjectID": "4403030030120100003"
+      },
+      {
+        "Id": "5ACB1BA1426582D4B195E8B1AE360E97",
+        "ObjectID": "4403030030120100004"
+      },
+      {
+        "Id": "B60D14F94D3236233CD620967BECC633",
+        "ObjectID": "4403030030040400000"
+      }
+    ]
+  }
+  

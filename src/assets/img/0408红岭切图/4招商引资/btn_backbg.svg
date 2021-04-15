@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="81px" viewBox="0 0 232 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btn_backbg</title>
+    <defs>
+        <linearGradient x1="50%" y1="1.72366696%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6FAFF" offset="0%"></stop>
+            <stop stop-color="#C4C8CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.1645542%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="btn_backbg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
+        <rect stroke="url(#linearGradient-2)" stroke-width="1.5" fill="url(#linearGradient-1)" x="0.75" y="0.75" width="230.5" height="79.5"></rect>
+    </g>
+</svg>

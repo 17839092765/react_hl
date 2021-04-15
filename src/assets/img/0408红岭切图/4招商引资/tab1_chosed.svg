@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="827px" height="83px" viewBox="0 0 827 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab1_chosed</title>
+    <g id="tab1_chosed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.15" stroke-opacity="0.195175918">
+        <g id="tab_default" transform="translate(51.000000, 1.000000)" fill="#FFFFFF" stroke="#FFFFFF">
+            <g id="编组" transform="translate(-0.000000, 0.000000)">
+                <rect id="矩形" x="0.5" y="0.5" width="211" height="80"></rect>
+                <rect id="矩形" x="225.5" y="0.5" width="211" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

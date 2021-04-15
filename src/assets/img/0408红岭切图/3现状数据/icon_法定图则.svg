@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_法定图则</title>
+    <g id="icon_法定图则" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-15" transform="translate(5.000000, 9.500000)">
+            <path d="M26,1 L26,3 L20,3 L20,26 L31,26 L31,28 L7,28 L7,26 L18,26 L18,3 L12,3 L12,1 L26,1 Z" id="形状结合" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M7,4.13854455 L11.8072327,16.5 L2.19276733,16.5 L7,4.13854455 Z" id="三角形" stroke="#FFFFFF" stroke-width="3"></path>
+            <polygon id="三角形" fill="#FFCF41" fill-rule="nonzero" points="31 0 38 18 24 18"></polygon>
+        </g>
+    </g>
+</svg>

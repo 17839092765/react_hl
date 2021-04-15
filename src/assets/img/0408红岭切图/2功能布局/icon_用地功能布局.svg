@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_用地功能布局</title>
+    <defs>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="icon_用地功能布局" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用地功能识别-(1)" filter="url(#filter-1)" transform="translate(8.000000, 8.000000)" fill-rule="nonzero">
+            <path d="M11.9791667,0.0226449389 L14.6356884,31.9067029 L0.0226449389,31.9067029 L2.67916668,0.0226449389 L11.9791667,0.0226449389 Z M10.1458333,2.01539854 L4.5125,2.01539854 L2.19076087,29.9139493 L12.4733696,29.9139493 L10.1458333,2.01539854 Z" id="形状" fill="#FFFFFF"></path>
+            <path d="M30.638587,17.4139493 L31.9067029,31.9067029 L17.2936594,31.9067029 L16.0255435,17.4139493 L30.638587,17.4139493 Z M29.2501811,0.0226449389 L30.5168478,14.5153985 L15.9023551,14.5153985 L14.6356884,0.0226449389 L29.2501811,0.0226449389 Z" id="形状结合" fill="#FFCF41"></path>
+        </g>
+    </g>
+</svg>

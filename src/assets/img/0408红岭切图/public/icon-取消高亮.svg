@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-取消高亮</title>
+    <g id="2222" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2功能布局-01用地功能布局" transform="translate(-2264.000000, -55.000000)">
+            <g id="top-right" transform="translate(2173.000000, 50.000000)">
+                <g id="编组" transform="translate(90.000000, 4.037500)">
+                    <g id="取消高亮" transform="translate(1.000000, 1.000000)">
+                        <circle id="椭圆形" cx="18.9583333" cy="18.9583333" r="18.9583333"></circle>
+                        <circle id="椭圆形" stroke="#FFFFFF" stroke-width="1.75" cx="18.9583333" cy="18.9583333" r="13.34375"></circle>
+                        <path d="M18.9583333,10.6640625 C23.5391326,10.6640625 27.2526042,14.377534 27.2526042,18.9583333 C27.2526042,23.5391326 23.5391326,27.2526042 18.9583333,27.2526042 L18.9583333,27.2526042 Z" id="形状结合" fill="#FFFFFF"></path>
+                        <path d="M18.9583333,4.48352466e-12 L18.9583333,2.36979167 M18.9583333,35.546875 L18.9583333,37.9166667" id="形状结合" stroke="#FFFFFF" stroke-width="1.75" transform="translate(18.958333, 18.958333) rotate(-270.000000) translate(-18.958333, -18.958333) "></path>
+                        <path d="M18.9583333,4.48352466e-12 L18.9583333,2.36979167 M18.9583333,35.546875 L18.9583333,37.9166667" id="形状结合" stroke="#FFFFFF" stroke-width="1.75" transform="translate(18.958333, 18.958333) rotate(-225.000000) translate(-18.958333, -18.958333) "></path>
+                        <path d="M18.9583333,3.94351218e-13 L18.9583333,2.36979167 M18.9583333,35.546875 L18.9583333,37.9166667" id="形状结合" stroke="#FFFFFF" stroke-width="1.75" transform="translate(18.958333, 18.958333) rotate(-180.000000) translate(-18.958333, -18.958333) "></path>
+                        <path d="M18.9583333,-7.10542736e-15 L18.9583333,2.36979167 M18.9583333,35.546875 L18.9583333,37.9166667" id="形状结合" stroke="#FFFFFF" stroke-width="1.75" transform="translate(18.958333, 18.958333) rotate(-135.000000) translate(-18.958333, -18.958333) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

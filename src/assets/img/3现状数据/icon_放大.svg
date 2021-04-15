@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_放大</title>
+    <defs>
+        <linearGradient x1="50%" y1="1.72366696%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6FAFF" offset="0%"></stop>
+            <stop stop-color="#C4C8CE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_放大" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-8">
+            <rect id="矩形" fill-opacity="0.5" fill="url(#linearGradient-1)" x="0" y="0" width="62" height="62" rx="31"></rect>
+            <g id="编组-6" transform="translate(17.000000, 17.000000)">
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" points="0 8 0 0 8 0"></polyline>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" transform="translate(24.000000, 4.000000) scale(-1, 1) translate(-24.000000, -4.000000) " points="20 8 20 0 28 0"></polyline>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" transform="translate(4.000000, 24.000000) scale(1, -1) translate(-4.000000, -24.000000) " points="0 28 0 20 8 20"></polyline>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" transform="translate(24.000000, 24.000000) scale(-1, -1) translate(-24.000000, -24.000000) " points="20 28 20 20 28 20"></polyline>
+                <rect id="矩形" fill="#FFFFFF" x="8" y="8" width="12" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-设置</title>
+    <defs>
+        <filter x="-31.6%" y="-31.6%" width="163.3%" height="163.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.203875348 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="icon-设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-取消高亮"></g>
+        <g id="编组-10" filter="url(#filter-1)" transform="translate(1.041667, 1.041667)">
+            <circle id="椭圆形备份-4" cx="18.9583333" cy="18.9583333" r="18.9583333"></circle>
+            <path d="M18.9587737,14.0411747 C15.9049249,14.0411747 13.4292598,16.5080006 13.4292598,19.5509458 C13.4292598,22.593891 15.9049249,25.0607169 18.9587737,25.0607169 C22.0126224,25.0607169 24.4882876,22.593891 24.4882876,19.5509458 C24.4882876,16.5080006 22.0126224,14.0411747 18.9587737,14.0411747 L18.9587737,14.0411747 Z M20.6524032,2.82172179 L32.6679093,9.72627813 C33.7163272,10.3284412 34.3619792,11.4416423 34.3619792,12.6463788 L34.3619792,26.4554915 C34.3619792,27.660228 33.7163272,28.7734292 32.6679093,29.3755922 L20.6524032,36.2801486 C19.6039853,36.8823116 18.3126813,36.8823116 17.2646724,36.2801486 L5.24875733,29.3755922 C4.20033951,28.7734292 3.5546875,27.660228 3.5546875,26.4554915 L3.5546875,12.6463788 C3.5546875,11.4416423 4.20033951,10.3284412 5.24875733,9.72627813 L17.2646724,2.82172179 C18.3126813,2.21914829 19.6043942,2.21914829 20.6524032,2.82172179 Z" id="形状" stroke="#FFFFFF" stroke-width="1.75"></path>
+        </g>
+    </g>
+</svg>

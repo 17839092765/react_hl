@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_地块信息</title>
+    <g id="icon_地块信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-19" transform="translate(4.000000, 6.500000)">
+            <rect id="矩形-3" stroke="#FFFFFF" stroke-width="3" x="1.5" y="1.5" width="30" height="32" rx="1"></rect>
+            <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="10" y="11" width="13" height="1" rx="0.5"></rect>
+            <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="10" y="19" width="8" height="1" rx="0.5"></rect>
+            <path d="M30.5724788,19.2874646 L40,35 L40,35 L16,35 L25.4275212,19.2874646 C26.2799657,17.8667238 28.1227465,17.4060286 29.5434873,18.2584731 C29.9657361,18.5118224 30.3191295,18.8652158 30.5724788,19.2874646 Z" id="三角形" fill="#FFCF41" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

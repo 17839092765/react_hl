@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_返回</title>
+    <defs>
+        <filter x="-33.3%" y="-52.2%" width="166.7%" height="204.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="icon_返回" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="返回-(2)" filter="url(#filter-1)" transform="translate(2.000000, 8.500000)" fill-rule="nonzero">
+            <path d="M22.08,0 L22.08,5.52 C30.1116,7.30572 34.24608,14.283 35.74752,21.41208 L35.88,22.08 C32.58732,17.1672 28.03608,14.7936 22.82796,13.91592 L22.08276,13.8 L22.08276,19.32 L11.04,11.04 L22.08,0 Z" id="形状" fill="#FFFFFF"></path>
+            <polygon id="路径" fill="#FFCF41" points="16.56 0 4.9956 11.04 15.318 19.32 10.1844 19.32 0 11.04 12.006 0"></polygon>
+        </g>
+    </g>
+</svg>

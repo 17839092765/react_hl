@@ -1,0 +1,24 @@
+/* @import '~antd/dist/antd.css'; */
+.App {
+  /* text-align: center; */
+  width: 100%;
+  /* height: 100vh; */
+  /* position: absolute; */
+  z-index: 10;
+  position: absolute;
+}
+#player{
+  position:absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+  z-index: 0;
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-初始视角</title>
+    <defs>
+        <filter x="-43.3%" y="-43.3%" width="186.7%" height="186.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.203875348 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="2222" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="2功能布局-01用地功能布局" transform="translate(-2173.000000, -56.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="top-right" transform="translate(2173.000000, 50.000000)">
+                <g id="编组" transform="translate(0.000000, 4.037500)">
+                    <g id="编组-16" filter="url(#filter-1)" transform="translate(5.000000, 5.000000)">
+                        <path d="M4.67661541,4.11750469 C1.79619428,6.85083452 0,10.7156554 0,15 C0,23.2842712 6.71572875,30 15,30 L10,20" id="路径"></path>
+                        <path d="M25.6395537,25.5735477 C28.3346488,22.8617337 30,19.1253486 30,15 C30,6.71572875 23.2842712,-2.84217094e-13 15,-2.84217094e-13 L20,10" id="路径"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

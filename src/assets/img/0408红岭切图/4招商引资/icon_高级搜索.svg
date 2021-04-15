@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_高级搜索</title>
+    <defs>
+        <filter x="-33.3%" y="-44.4%" width="166.7%" height="188.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="icon_高级搜索" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="其他-高级搜索" filter="url(#filter-1)" transform="translate(2.000000, 6.500000)" fill-rule="nonzero">
+            <polygon id="路径" fill="#FFFFFF" opacity="0.610169876" points="0 0 36 0 33.75 6.75 2.25 6.75"></polygon>
+            <polygon id="路径" fill="#FFCF41" points="4.5 9 31.5 9 29.25 15.75 6.75 15.75"></polygon>
+            <polygon id="路径" fill="#FFFFFF" opacity="0.610169876" points="9 18 27 18 24.75 27 11.25 27"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="60px" viewBox="0 0 75 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>滑块</title>
+    <defs>
+        <linearGradient x1="19.8159867%" y1="30.1937636%" x2="98.8675936%" y2="81.2683614%" id="linearGradient-1">
+            <stop stop-color="#F8F1C4" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#EED04E" stop-opacity="0.7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="滑块" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" stroke="#EBEDCE" stroke-width="2" fill-opacity="0.8" fill="url(#linearGradient-1)" x="1" y="1" width="73" height="58" rx="4"></rect>
+            <g id="勾" transform="translate(21.970980, 18.646020)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M30.5290205,2.95398018 C30.5290205,2.95398018 25.7290205,4.55398017 20.1290205,10.9539802 C14.9290205,16.7539802 13.7290205,19.1539802 11.7290205,22.3539802 C11.5290205,22.1539802 8.52902047,16.3539802 0.529020468,12.1539802 L4.72902047,8.15398018 C4.72902047,8.15398018 8.52902047,10.7539802 11.1290205,15.5539802 C11.1290205,15.5539802 17.7290205,5.35398019 30.5290205,0.353980192 L30.5290205,2.95398018 L30.5290205,2.95398018 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>
